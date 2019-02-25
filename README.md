@@ -3,7 +3,7 @@ Scripted from the brainstorm toolbox version Feb. 24, 2019
 1. Unzip Brainstorm ver. Feb. 24 2019.rar
 2. Download the example data from https://lstneuro-my.sharepoint.com/:f:/g/personal/andy_neuroinformatics-collaboratory_org/EjIH-Do76hZKtvPGRuOfAP8BfXCz7ysQWEbjB1E5_g95bw?e=B7I8np 
 
-Example data includes: 
+   Example data includes: 
                       
                       1) 113922_MEG_anatomy 
                       2) 113922_MEG_Restin_unproc 
