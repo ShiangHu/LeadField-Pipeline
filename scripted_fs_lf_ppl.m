@@ -1,5 +1,6 @@
-% Scripted pipeline from Brainstorm (24-Feb-2019)
-% Andy Hu, Feb. 24, 2019
+% Scripted leadfield pipeline for Freesurfer anatomy files
+% Brainstorm (24-Feb-2019)
+% Andy Hu, Feb. 24, 2019 
 
 clc; clear; close all;
 addpath('./brainstorm3');
