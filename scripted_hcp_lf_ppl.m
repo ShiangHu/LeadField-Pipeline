@@ -1,4 +1,5 @@
-% Scripted pipeline from Brainstorm (24-Feb-2019)
+% Scripted pipeline for HCP (human connectome project) anatomy files
+% Brainstorm (24-Feb-2019)
 % Andy Hu, Feb. 24, 2019
 
 clc; clear; close all;
